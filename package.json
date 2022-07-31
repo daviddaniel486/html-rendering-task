@@ -1,0 +1,28 @@
+{
+  "name": "html-rendering-task",
+  "version": "1.0.0",
+  "description": "Create routes that render the HTML pages you created on a browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daviddaniel486/html-rendering-task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daviddaniel486/html-rendering-task/issues"
+  },
+  "homepage": "https://github.com/daviddaniel486/html-rendering-task#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "lodash": "^4.17.21",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
